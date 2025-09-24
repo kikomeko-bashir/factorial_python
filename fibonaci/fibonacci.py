@@ -1,5 +1,5 @@
 # Fibonacci solution
-# Pair: Bashir & [Your Partner’s Name]
+# Pair: Kikomeko Bashir Musa & Arinda Josephine
 
 def fibonacci(n: int) -> int:
     """Return the nth Fibonacci number.
